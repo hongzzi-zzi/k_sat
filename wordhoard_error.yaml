@@ -1,0 +1,195 @@
+2022-09-18 07:07:50:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word robot
+2022-09-18 07:07:52:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word example
+2022-09-18 07:07:54:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word factory
+2022-09-20 06:19:02:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:02:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-20 06:19:02:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-20 06:19:02:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/robots factories
+2022-09-20 06:19:02:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:02:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word robots factories
+2022-09-20 06:19:03:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word robots factories
+2022-09-20 06:19:04:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:04:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-20 06:19:04:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-20 06:19:04:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/example robots
+2022-09-20 06:19:04:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:04:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word example robots
+2022-09-20 06:19:05:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word example robots
+2022-09-20 06:19:06:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:06:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-20 06:19:06:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-20 06:19:06:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/existing factories
+2022-09-20 06:19:06:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:06:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word existing factories
+2022-09-20 06:19:07:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word existing factories
+2022-09-20 06:19:07:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:07:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-20 06:19:07:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-20 06:19:07:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/existing employees
+2022-09-20 06:19:07:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:07:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word existing employees
+2022-09-20 06:19:08:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word existing employees
+2022-09-20 06:19:09:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:09:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-20 06:19:09:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-20 06:19:09:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/artificial person
+2022-09-20 06:19:09:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:09:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word artificial person
+2022-09-20 06:19:14:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:14:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-20 06:19:14:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-20 06:19:14:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/robots factories
+2022-09-20 06:19:14:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:14:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word robots factories
+2022-09-20 06:19:15:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word robots factories
+2022-09-20 06:19:15:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:15:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-20 06:19:15:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-20 06:19:15:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/example robots
+2022-09-20 06:19:15:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:15:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word example robots
+2022-09-20 06:19:16:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word example robots
+2022-09-20 06:19:17:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:17:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-20 06:19:17:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-20 06:19:17:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/existing factories
+2022-09-20 06:19:17:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:17:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word existing factories
+2022-09-20 06:19:18:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word existing factories
+2022-09-20 06:19:18:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:18:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-20 06:19:18:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-20 06:19:18:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/existing employees
+2022-09-20 06:19:18:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-20 06:19:18:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word existing employees
+2022-09-20 06:19:19:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word existing employees
+2022-09-20 06:19:54:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word factory
+2022-09-20 06:21:50:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word robot
+2022-09-21 04:29:30:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:30:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:29:30:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:29:30:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/robots factories
+2022-09-21 04:29:30:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:30:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word robots factories
+2022-09-21 04:29:33:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word robots factories
+2022-09-21 04:29:33:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:33:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:29:33:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:29:33:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/example robots
+2022-09-21 04:29:33:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:33:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word example robots
+2022-09-21 04:29:34:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word example robots
+2022-09-21 04:29:34:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:34:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:29:34:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:29:34:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/existing factories
+2022-09-21 04:29:34:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:34:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word existing factories
+2022-09-21 04:29:36:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word existing factories
+2022-09-21 04:29:36:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:36:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:29:36:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:29:36:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/existing employees
+2022-09-21 04:29:36:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:36:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word existing employees
+2022-09-21 04:29:37:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word existing employees
+2022-09-21 04:29:37:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:37:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:29:37:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:29:37:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/artificial person
+2022-09-21 04:29:37:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:37:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word artificial person
+2022-09-21 04:29:42:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:42:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:29:42:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:29:42:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/robots factories
+2022-09-21 04:29:42:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:42:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word robots factories
+2022-09-21 04:29:43:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word robots factories
+2022-09-21 04:29:43:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:43:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:29:43:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:29:43:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/example robots
+2022-09-21 04:29:43:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:43:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word example robots
+2022-09-21 04:29:44:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word example robots
+2022-09-21 04:29:45:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:45:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:29:45:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:29:45:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/existing factories
+2022-09-21 04:29:45:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:45:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word existing factories
+2022-09-21 04:29:46:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word existing factories
+2022-09-21 04:29:46:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:46:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:29:46:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:29:46:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/existing employees
+2022-09-21 04:29:46:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:29:46:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word existing employees
+2022-09-21 04:29:47:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word existing employees
+2022-09-21 04:29:53:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word factory
+2022-09-21 04:29:57:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word robot
+2022-09-21 04:42:44:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:44:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:42:44:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:42:44:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/robots factories
+2022-09-21 04:42:44:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:44:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word robots factories
+2022-09-21 04:42:45:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word robots factories
+2022-09-21 04:42:46:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:46:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:42:46:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:42:46:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/example robots
+2022-09-21 04:42:46:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:46:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word example robots
+2022-09-21 04:42:47:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word example robots
+2022-09-21 04:42:47:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:47:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:42:47:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:42:47:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/existing factories
+2022-09-21 04:42:47:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:47:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word existing factories
+2022-09-21 04:42:49:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word existing factories
+2022-09-21 04:42:49:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:49:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:42:49:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:42:49:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/existing employees
+2022-09-21 04:42:49:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:49:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word existing employees
+2022-09-21 04:42:50:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word existing employees
+2022-09-21 04:42:50:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:50:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:42:50:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:42:50:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/artificial person
+2022-09-21 04:42:50:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:50:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word artificial person
+2022-09-21 04:42:54:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:54:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:42:54:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:42:54:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/robots factories
+2022-09-21 04:42:54:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:54:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word robots factories
+2022-09-21 04:42:56:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word robots factories
+2022-09-21 04:42:56:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:56:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:42:56:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:42:56:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/example robots
+2022-09-21 04:42:56:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:56:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word example robots
+2022-09-21 04:42:57:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word example robots
+2022-09-21 04:42:57:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:57:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:42:57:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:42:57:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/existing factories
+2022-09-21 04:42:57:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:57:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word existing factories
+2022-09-21 04:42:59:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word existing factories
+2022-09-21 04:42:59:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:59:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2022-09-21 04:42:59:wordhoard.utilities.basic_soup:INFO: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2022-09-21 04:42:59:wordhoard.utilities.basic_soup:INFO: Requested URL: https://www.thesaurus.com/browse/existing employees
+2022-09-21 04:42:59:wordhoard.utilities.basic_soup:INFO: --------------------------------------------------------------------------------
+2022-09-21 04:42:59:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word existing employees
+2022-09-21 04:43:00:wordhoard.antonyms:INFO: Wordhippo.com had no antonym reference for the word existing employees
+2022-09-21 04:43:03:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word factory
+2022-09-21 04:43:07:wordhoard.antonyms:INFO: Thesaurus.com had no antonym reference for the word robot
