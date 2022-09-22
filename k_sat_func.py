@@ -39,10 +39,19 @@ gpt2_tokenizer = AutoTokenizer.from_pretrained("gpt2")
 gpt2_model = AutoModelWithLMHead.from_pretrained("gpt2", pad_token_id=gpt2_tokenizer.eos_token_id)
 bert_model = SentenceTransformer('bert-base-nli-mean-tokens')
 kw_model = KeyBERT()
-translator = Translator()
+##########
+# translator = Translator()
 
 gpt2_model.to(DEVICE)
 bert_model.to(DEVICE)
+
+#######
+from translate import Translator
+
+# In [1]: from translate import Translator
+# In [2]: translator= Translator(to_lang="zh")
+# In [3]: translation = translator.translate("This is a pen.")
+# Out [3]: 这是一支笔
 
 #%%
 PATH='/home/stanford-corenlp-4.5.0'
@@ -52,7 +61,7 @@ os.system('pwd')
 os.system('java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer \
                     -preload tokenize,ssplit,pos,lemma,ner,parse,depparse \
                     -status_port 9000 -port 9009 -timeout 15000 &')
-os.chdir('/home/K-sat')
+os.chdir('/home/K_sat_final')
 nlp = StanfordCoreNLP('http://localhost', port=9009, memory='8g')
 cc = OpenCC('t2s')
 
@@ -81,9 +90,12 @@ def paraphrasing_by_transe(summary:list, midpoint='zh-cn')->list:
     원래 passage에 없는 문장들로 바꾸어 list로 리턴
     '''
     pharaphrase=[]
+    translator= Translator(to_lang="zh")
     for sentence in summary:
-        translate=translator.translate(sentence, src='en', dest=midpoint).text
-        pharaphrase.append(translator.translate(translate, src=midpoint, dest='en').text)
+        # translate=translator.translate(sentence, src='en', dest=midpoint).text
+        translate=translator.translate(sentence)
+        # pharaphrase.append(translator.translate(translate, src=midpoint, dest='en').text)
+        pharaphrase.append(translator.translate(translate))
     return pharaphrase
 
 def transe_kor(sentence:list)->list:
@@ -92,9 +104,11 @@ def transe_kor(sentence:list)->list:
     한국어로 번역
     '''
     kor=[]
+    translator= Translator(to_lang="kr")
     for sent in sentence:
         # print(type(sent))
-        k_sentence=translator.translate(sent, src='en', dest='ko').text
+        # k_sentence=translator.translate(sent, src='en', dest='ko').text
+        k_sentence=translator.translate(sent)
         kor.append(k_sentence)        
     return kor
 

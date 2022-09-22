@@ -609,7 +609,7 @@ class Q8:
 
         # print(new_passage_keyword)
         
-        print(keyword, type(keyword))
+        # print(keyword, type(keyword))
 
         result=[]
         kwd_lmtzr=get_lmtzr(keyword, get_pos(keyword))
@@ -691,18 +691,7 @@ class Q8:
         question_dict['d4']=distractors[3]
         return json.dumps(question_dict, ensure_ascii = False)
 #%% 32-34 빈칸추론 (구, 절)-> 실험중..
-PATH='/home/stanford-corenlp-4.5.0'
 
-os.chdir(PATH)
-os.system('pwd')
-os.system('java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer \
-                    -preload tokenize,ssplit,pos,lemma,ner,parse,depparse \
-                    -status_port 9000 -port 9001 -timeout 15000 &')
-os.chdir('/home/K-sat')
-nlp = StanfordCoreNLP('http://localhost', port=9001, memory='8g')
-cc = OpenCC('t2s')
-
-atom_end = set('()"\'') | set(whitespace)
 class Q9:
     def __init__(self):
         self.question_type=9
